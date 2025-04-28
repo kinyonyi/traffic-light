@@ -1,4 +1,4 @@
-\# traffic-light   Traffic Light Control System body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 20px; max-width: 800px; margin: 0 auto; } h1, h2, h3, h4 { color: #333; } h1 { border-bottom: 2px solid #333; padding-bottom: 10px; } h2 { border-bottom: 1px solid #ccc; padding-bottom: 5px; } ul, ol { margin: 10px 0; padding-left: 20px; } li { margin-bottom: 5px; } pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; } code { font-family: Consolas, monospace; } a { color: #0066cc; text-decoration: none; } a:hover { text-decoration: underline; } p { margin: 10px 0; }
+\# traffic-ligh
 
 Traffic-Light Control System
 ============================
