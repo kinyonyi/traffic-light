@@ -1,5 +1,3 @@
-\# traffic-ligh
-
 Traffic-Light Control System
 ============================
 
